@@ -1,4 +1,4 @@
-#  <img src="https://libreria-ditesa.com/media/catalog/category/pngwing.com.png" alt="ITESM Logo" style="float: center; margin-right: 50px;" width="200"/> Image Matrix Transformations
+#  <img src="https://libreria-ditesa.com/media/catalog/category/pngwing.com.png" alt="ITESM Logo" style="float: center; margin-right: 50px;" width="200"/> Image Matrix Operations
 
 ## Description
 In this repository is located some python files that were created in order to understand how the pixels matrix are stored and how it can be modified by applying them some transformation operations. 
