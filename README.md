@@ -1,7 +1,7 @@
-#  <img src="https://libreria-ditesa.com/media/catalog/category/pngwing.com.png" alt="ITESM Logo" style="float: center; margin-right: 50px;" width="200"/> Project Covid Data
+#  <img src="https://libreria-ditesa.com/media/catalog/category/pngwing.com.png" alt="ITESM Logo" style="float: center; margin-right: 50px;" width="200"/> Image Matrix Transformations
 
 ## Description
-In this repository is located some python files that were created in order to learn how to process images, undersating how the pixels matrix are stored and how it can be modified. 
+In this repository is located some python files that were created in order to understand how the pixels matrix are stored and how it can be modified by applying them some transformation operations. 
 
 ## Main Learnings 
 * Read images 
